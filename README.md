@@ -5,7 +5,7 @@
 </p>
 <img align="right" alt="Coding" width = "400" src = "https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
-- currently working on Flutter App [Stock App](https://github.com/ISLAM2ADEL/stock_application)
+- currently working on Flutter App [Stock App](https://github.com/TarekMohammedgg/Stock-App)
 
 - Last finished project (Graduate Project) [Skintelligent](https://github.com/ISLAM2ADEL/skintelligent)
 
@@ -33,3 +33,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekmohammedgg&theme=default" alt="GitHub Streak" />
 </p>
+
