@@ -126,12 +126,10 @@ Production-ready architecture with Supabase migrations, Riverpod state managemen
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TarekMohammedgg&show_icons=true&theme=vue&border_color=0e75b6&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekMohammedgg&layout=compact&theme=vue&border_color=0e75b6" />
+  
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=TarekMohammedgg&theme=vue&border=0e75b6" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TarekMohammedgg&theme=flat&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
